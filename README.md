@@ -1,8 +1,64 @@
-# Welcome to your Lovable project
+# Sales Toolkit Dashboard
 
-## Project info
+## Project Overview
 
 **URL**: https://lovable.dev/projects/0a256796-06c4-4c49-a3af-5f875f7a044c
+
+A strategically designed sales toolkit dashboard specifically created for gymnastics program managers to enhance their sales performance and customer interactions. This application serves as a comprehensive training and reference platform that improves sales skills organically during real-time customer conversations.
+
+## Project Goals & Purpose
+
+### Primary Objectives
+1. **Seamless Training Integration**: Design a tool that trains users naturally as they conduct sales calls, without interrupting their workflow or making training feel forced
+2. **Continuous Improvement**: Encourage ongoing skill development through easy access to proven sales strategies and best practices
+3. **Real-Time Support**: Provide instant access to scripts, objection handling, and relevant information during live customer interactions
+4. **Performance Consistency**: Standardize sales approaches across multiple locations while maintaining local flexibility
+
+### Strategic Design Philosophy
+- **Intuitive Learning**: Users improve their sales techniques unconsciously through regular interaction with the platform
+- **Quick Reference**: All essential information accessible within seconds during calls
+- **Location-Specific Customization**: Each of the 10 locations maintains separate, tailored content without cross-contamination
+- **Single-Page Efficiency**: Eliminate navigation friction by consolidating all tools into one cohesive interface
+
+## Core Features & Functionality
+
+### 🎯 Sales Scripts Section
+- **Toggle & Dropdown Options**: Quick access to situation-specific dialogue
+- **Scenario-Based Organization**: Scripts categorized by common sales situations (initial contact, price objections, scheduling concerns)
+- **Preparation Tool**: Helps managers anticipate conversation directions and prepare appropriate responses
+
+### 💡 Tips & Best Practices
+- **Objection Handling**: Proven strategies for overcoming common customer concerns
+- **Relationship Building**: Techniques for establishing trust and rapport with prospective families
+- **Closing Techniques**: Methods for successfully converting prospects into enrolled families
+
+### ❓ FAQ Knowledge Base
+- **Gymnastics Benefits**: Comprehensive information about physical, mental, and social advantages
+- **Program Details**: Age-appropriate class information and developmental benefits
+- **Common Concerns**: Ready answers for frequently asked questions about safety, commitment, and value
+
+### 📧 Email Templates
+- **Professional Communication**: Pre-written templates for various customer touchpoints
+- **Follow-Up Sequences**: Structured email flows for nurturing prospects
+- **Customizable Content**: Templates adaptable to specific situations and customer needs
+
+### 📝 Digital Notepad
+- **Call Documentation**: Space for capturing important customer information and conversation notes
+- **Thought Tracking**: Area for recording insights, follow-up tasks, and strategic observations
+- **Session Memory**: Persistent storage of notes for future reference and relationship building
+
+## Technical Architecture
+
+### Multi-Location Management
+- **10 Independent Locations**: Each location operates with completely separate data sets
+- **Location Selector**: Dropdown menu allowing seamless switching between locations
+- **Data Isolation**: Ensures one location's information doesn't interfere with another's operations
+
+### User Experience Design
+- **Single-Page Application**: All functionality accessible without page navigation
+- **Tabbed Interface**: Organized sections (Scripts, Tips, FAQs, Email Templates, Notes) for quick switching
+- **Responsive Design**: Optimized for desktop use during phone calls, with mobile compatibility
+- **Visual Hierarchy**: Strategic use of custom color palette (#b48f8f, #cec4c1, #8f93a0, #f9fafb, #b4acb0) for intuitive navigation
 
 ## How can I edit this code?
 
